@@ -11328,6 +11328,12 @@ section {
   padding-bottom: 5rem;
 }
 
+.separadores{
+  padding-top: 0rem;
+  padding-bottom: 0.5rem;
+
+}
+
 .app-badge {
   height: 3rem;
 }
