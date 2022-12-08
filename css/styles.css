@@ -89,6 +89,15 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+button a {
+  text-decoration: none;
+}
+
+button a:hover {
+  text-decoration: none;
+  color: white;
+}
+
 hr {
   margin: 1rem 0;
   color: inherit;
@@ -11684,14 +11693,3 @@ section.cta5:before {
   background: rgba(0, 0, 0, 0.5);
 }
 
-.ir-arriba{
-  display:none;
-  background-repeat:no-repeat;
-  font-size:20px;
-  color:black;
-  cursor:pointer;
-  position:fixed;
-  bottom:10px;
-  right:10px;
-  z-index:2;
-}
