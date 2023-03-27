@@ -11610,9 +11610,10 @@ footer a:hover, footer a:active, footer a:focus {
       background-size: cover;
       background-position: center;
       }
+
     .masthead4 {
       background-size: cover;
-      background-position: center;
+      background-position: left;
       }
 
 
